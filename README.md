@@ -16,7 +16,7 @@ I enjoy building practical projects that help me understand how systems work und
 
 ## Current Projects
 
-### 🚀 Project Apollo
+### Project Olympus🏛️
 
 My Linux learning journey and homelab documentation.
 
