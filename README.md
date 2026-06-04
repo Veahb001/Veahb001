@@ -86,7 +86,7 @@ Research and experimentation involving:
 
 ## Connect With Me
 
-* LinkedIn:
+* LinkedIn: [https://www.linkedin.com/in/harmon-vears/]
 * Email: [harmon.vears@gmail.com]
 
 ---
