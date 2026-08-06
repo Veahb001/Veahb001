@@ -4,8 +4,8 @@
 
 Graduate Software Engineer (Honours) student based in Adelaide, Australia with interests in:
 
+* Backend Software Development
 * Linux & Homelab Infrastructure
-* Backend Development
 * Cybersecurity
 * Networking & System Administration
 * Blockchain & MEV Research
