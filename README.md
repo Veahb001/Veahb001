@@ -1,6 +1,6 @@
 # Hi, I'm Harmon
 
-## Graduate Software Engineer | Linux Enthusiast
+## Graduate Software Engineer | 
 
 Graduate Software Engineer (Honours) student based in Adelaide, Australia with interests in:
 
